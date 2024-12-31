@@ -14,6 +14,9 @@ The tool is built around two key components:
 1. **Jupyter Notebook**: The development and testing hub where core logic is refined.
 2. **Streamlit App**: A user-friendly web application that allows recruiters to upload resumes, enter queries, and receive detailed insights.
 
+## Application Link
+https://grp21resumellm.streamlit.app/
+
 ### Jupyter Notebook: The Development and Testing Hub
 
 #### Key Functions:
